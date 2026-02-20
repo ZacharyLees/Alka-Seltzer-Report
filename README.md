@@ -1,6 +1,6 @@
 # Alka-Seltzer-Report
 
-Performing an experiment to determine factors associated with tablets disolving.
+Performing an experiment to determine factors associated with tablets dissolving rate.
 
 QUESTION 1: Which variables (liquid type, liquid temperature, tablet brand, and surface area) are significant in predicting dissolve time of antacid tablets?
 
